@@ -1,4 +1,4 @@
-package AtlassianMarketplace;
+package AutomationPractice;
 
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
@@ -12,7 +12,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.util.List;
 
-class AtlassianMarketplaceTest {
+class AutomationPractice {
     private static WebDriver chromeDriver;
 
 
